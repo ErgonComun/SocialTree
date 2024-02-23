@@ -80,7 +80,6 @@ body {
   transform: translateY(-50%);
   top: 50%;
   left: 0px;
-  transition: 0.5s;
   box-shadow: rgba(0, 0, 0, 0.356) 0px 0px 10px 0px;
 }
 #switch span {
