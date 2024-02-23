@@ -77,11 +77,11 @@ body {
   border-radius: 50%;
   z-index: 1;
   background: #f4f4f4 var(--switch-bg-url) no-repeat center;
-  border: 1px solid var(--text-color);
   transform: translateY(-50%);
   top: 50%;
   left: 0px;
   transition: 0.5s;
+  box-shadow: rgba(0, 0, 0, 0.356) 0px 0px 10px 0px;
 }
 #switch span {
   display: block;
