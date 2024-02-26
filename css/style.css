@@ -6,6 +6,7 @@
   text-decoration: none;
   list-style: none;
   font-family: "Lato", sans-serif;
+  -webkit-tap-highlight-color: transparent;
 }
 :root {
   --avatar-shadow: rgba(108, 45, 255, 0.692) 0px 0px 15px 1px;
@@ -30,10 +31,6 @@
 a {
   color: var(--text-color);
   margin: 0;
-}
-a :focus{
-  border: none;
-  outline: none;
 }
 body {
   background: var(--bg-url) no-repeat top center/cover;
